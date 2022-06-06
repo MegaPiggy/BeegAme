@@ -26,3 +26,5 @@ config beeg_ame config SETTINGS SIZE 5
 5 is the default size for beeg ame. You can set it anywhere between 1 and 100.
 
 [![](https://raw.githubusercontent.com/MegaPiggy/BeegAme/main/AmeWide.png)](https://www.nexusmods.com//mods/5&game_id=3759)
+
+[![](https://user-images.githubusercontent.com/34462599/172096402-42c259d8-ada3-488c-99ba-265d56545320.png)](https://www.nexusmods.com//mods/5&game_id=3759)
